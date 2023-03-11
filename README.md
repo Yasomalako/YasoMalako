@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaso</h1>
-<h3 align="center">A passionate Full stack developer from I</h3>
+<h3 align="center"> Full stack developer open to work</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
